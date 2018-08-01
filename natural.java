@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 public class natural
 {
-Public static void main(String args[])
+Public static void main(String[] args)
 {
 int a=0;
 Scanner s=new Scanner(System.in);

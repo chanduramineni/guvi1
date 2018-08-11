@@ -6,7 +6,7 @@ class fact
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-	        Scanner s=new Svanner(System.in);
+	        Scanner s=new Scanner(System.in);
           int n=s.nextInt();
           int fact=1;
           for(int i=1;i<=1;i++)

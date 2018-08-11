@@ -13,6 +13,9 @@ class multiple
 		for(int c=1;c<=5;c++)
 		{
 			int a=n*c;
+			if(c==5)
+			System.out.print(a)
+			else
 			System.out.print(a+" ");
 		}
 	}

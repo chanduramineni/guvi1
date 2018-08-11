@@ -21,12 +21,12 @@ class armstrong
 		}
 		if(temp==c)
 		{
-			System.out.println("armstrong number");
+			System.out.println("yes");
 			
 		}
 		else
 		{
-			System.out.println("not a armstrong number");
+			System.out.println("no");
 		}
 	}
 }

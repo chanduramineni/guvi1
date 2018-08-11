@@ -14,7 +14,7 @@ class multiple
 		{
 			int a=n*c;
 			if(c==5)
-			System.out.print(a)
+			System.out.print(a);
 			else
 			System.out.print(a+" ");
 		}
